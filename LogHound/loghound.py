@@ -5,7 +5,7 @@ LogHound - Linux Security Log Analyzer
 Sniffs out brute-force attempts, privilege abuse, web attack payloads,
 and other suspicious activity buried in Linux log files.
 
-Author : Tanvir
+Author : Afsa Taj
 License: MIT
 """
 
